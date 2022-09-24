@@ -1,0 +1,6 @@
+version: "3"
+
+services:
+  SQS:
+    image: roribio16/alpine-sqs:latest
+    ports:

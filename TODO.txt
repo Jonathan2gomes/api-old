@@ -1,0 +1,6 @@
+Criação de uma api de pedidos:
+A api deve conter informações do usuário, e informações  de um produto.
+Uma compra é quando um usuário efetua um pedido.
+dentro das informações do pedido, deverá conter a forma de pagamento.
+As informações de pagamento deverão ser validadas por outra api, que criaremos mais tarde.
+Criar um crud das informações acima.
